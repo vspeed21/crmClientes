@@ -6,8 +6,7 @@ import EditarCliente from './pages/EditarCliente';
 import NuevoCliente from './pages/NuevoCliente';
 import VerCliente from './pages/VerCliente';
 
-function App() {
-
+function App() {  
   return (
     <BrowserRouter>
       <Routes>
